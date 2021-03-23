@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-[CreateAssetMenu(menuName = "Flock/Behaviour/Steered Cohesion")]
+[CreateAssetMenu(menuName = "Flock/Behaviour/SteeredCohesion")]
 public class SteeredCohesionBehaviour : FlockBehaviour
 {
     Vector2 currentVelocity;
